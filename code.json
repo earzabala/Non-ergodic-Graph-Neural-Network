@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Non-ergodic-Graph-Neural-Network",
+    "organization": "U.S. Geological Survey",
+    "description": "Software to create and use Ergodic, Partially Non-ergodic, and Non-ergodic graph neural network models.",
+    "version": "1.0.0",
+    "status": "Development",
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "https://code.usgs.gov"
+        }
+      ]
+    },
+
+    "homepageURL": "https://code.usgs.gov",
+    "downloadURL": "https://code.usgs.gov",
+    "disclaimerURL": "https://code.usgs.gov",
+    "repositoryURL": "https://code.usgs.gov",
+    "vcs": "git",
+
+    "laborHours": 0,
+
+    "tags": [
+      "USGS",
+      "earthquake",
+      "Ground Motion Models",
+      "usg-artificial-intelligence"
+    ],
+
+    "languages": [
+      "Markdown",
+      "Python"
+    ],
+
+    "contact": {
+      "name": "Eduardo Arzabala",
+      "email": "earzabala@usgs.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2026-07-13"
+    }
+  }
+]
