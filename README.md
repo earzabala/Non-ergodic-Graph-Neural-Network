@@ -3,9 +3,9 @@
 ## Summary
 This tutorial provides an example on how to load in the trained models from the *Modeling Non-Ergodic Ground Motions using Graph Neural Networks* paper. Additionally, the tutorial shows how the trained models can be used to predict example rupture scenarios from CyberShake.
 
-[DISCLAIMER](disclaimer.md)
+[DISCLAIMER](DISCLAIMER.md)
 
-[LICENSE](license.md)
+[LICENSE](LICENSE.md)
 
 ## To install via Conda and run: 
 
