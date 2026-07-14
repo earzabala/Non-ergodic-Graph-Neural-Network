@@ -3,9 +3,6 @@
 ## Summary
 This tutorial provides an example on how to load in the trained models from the *Modeling Non-Ergodic Ground Motions using Graph Neural Networks* paper. Additionally, the tutorial shows how the trained models can be used to predict example rupture scenarios from CyberShake.
 
-## Citation
-Arzabala, E., Withers, K., Moschetti, M., Clements, T., McBrearty, I., 2026, project-slug - A one-line description (tagline) for the project, version 1.0.0: U.S. Geological Survey software release, accessed Month, Day, Year, at https://doi.org/the-doi-for-the-release.
-
 [DISCLAIMER](disclaimer.md)
 
 [LICENSE](license.md)
@@ -22,3 +19,6 @@ source gnn-tutorial/bin/activate
 pip install .
 jupyter lab
 Open Tutorial_Example.ipynb and Run Cells
+
+## Citation
+Arzabala, E., Withers, K., Moschetti, M., Clements, T., McBrearty, I., 2026, project-slug - A one-line description (tagline) for the project, version 1.0.0: U.S. Geological Survey software release, accessed Month, Day, Year, at https://doi.org/the-doi-for-the-release.
