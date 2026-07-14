@@ -7,17 +7,26 @@ This tutorial provides an example on how to load in the trained models from the 
 
 [LICENSE](license.md)
 
-### To install via Conda and run: 
+## To install via Conda and run: 
+
 conda env create -f environment.yml
+
 conda activate gnn-tutorial
+
 jupyter lab
+
 Open Tutorial_Example.ipynb and Run Cells
 
-### To install via pip and run:
+## To install via pip and run:
+
 python3.9 -m venv gnn-tutorial
+
 source gnn-tutorial/bin/activate
+
 pip install .
+
 jupyter lab
+
 Open Tutorial_Example.ipynb and Run Cells
 
 ## Citation
