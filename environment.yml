@@ -1,0 +1,12 @@
+name: gnn-tutorial
+channels:
+  - pytorch
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.9
+  - jupyterlab=4.4
+  - pytorch=2.2
+  - torch-geometric=2.6
+  - numpy=1.26
+  - matplotlib=3.9
